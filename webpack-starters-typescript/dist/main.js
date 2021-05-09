@@ -1,0 +1,2 @@
+(()=>{function o(o){var e,l;console.log("I should make a noise: ",o&&o.one&&o.one.two&&o.one.two.three),console.log("I should make a noise: ",null===(l=null===(e=null==o?void 0:o.one)||void 0===e?void 0:e.two)||void 0===l?void 0:l.three)}console.log(132),o(0),console.log("---------"),o({one:{two:{three:"awoooo"}}})})();
+//# sourceMappingURL=main.js.map

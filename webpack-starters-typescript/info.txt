@@ -1,0 +1,5 @@
+1- install ==> sudo npm i -D webpack webpack-cli
+2- install ==> sudo npm i -D ts-loader
+3- make webpack.config.js
+4- install ==> sudo npm i -D typescript
+5- npx tsc --init
